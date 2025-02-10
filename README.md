@@ -20,19 +20,6 @@ pip install torch transformers pandas numpy matplotlib
 - The dataset used for training is a collection of Pali-English translations.
 - It is available in the `output_file.csv` file.
 
-## Usage
-### Running the Model
-Execute the Jupyter Notebook to train and test the model:
-```bash
-jupyter notebook
-```
-Open `Final_Transformer.ipynb` and run all cells.
-
-Alternatively, run the script (if applicable):
-```bash
-python train_model.py
-```
-
 ## File Structure
 ```
 Project/
