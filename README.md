@@ -38,10 +38,7 @@ python train_model.py
 Project/
 │── notebooks/            # Jupyter notebooks with model training
 │── data/                 # Dataset files (not uploaded if too large)
-│── models/               # Trained model checkpoints
-│── scripts/              # Python scripts for training and evaluation
 │── README.md             # Project documentation
-│── requirements.txt      # Dependencies list
 ```
 
 ## Model Details
