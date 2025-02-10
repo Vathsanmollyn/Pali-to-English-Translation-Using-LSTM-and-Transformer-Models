@@ -71,6 +71,3 @@ The project leverages Transformer models, inspired by state-of-the-art architect
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any questions, reach out via email or create an issue in this repository.
-
