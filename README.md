@@ -13,12 +13,6 @@ This project focuses on translating Pali text into English using Transformer-bas
 To set up the environment, install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
-```
-
-If a `requirements.txt` file is not available, install necessary libraries manually:
-
-```bash
 pip install torch transformers pandas numpy matplotlib
 ```
 
