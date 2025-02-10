@@ -57,37 +57,17 @@ The project leverages Transformer models, inspired by state-of-the-art architect
 - Evaluation Metrics: BLEU Score, Perplexity
 
 ## Contributions
-We welcome contributions to enhance this project! Here are some ways you can help:
 
 ### Code Contributions
-- Improve model performance with hyperparameter tuning and architectural changes.
-- Enhance preprocessing techniques for better text cleaning and normalization.
-- Refactor the training pipeline to make it more modular and efficient.
-- Add dataset handling improvements for better data ingestion and augmentation.
+- Improved model performance with hyperparameter tuning and architectural changes.
+- Enhanced preprocessing techniques for better text cleaning and normalization.
 
 ### Documentation Improvements
-- Improve README.md with better explanations and examples.
-- Create a wiki or tutorials for new users.
-- Add meaningful comments and docstrings to improve code clarity.
-
-### Bug Fixes and Issue Resolution
-- Report bugs by opening an issue in this repository.
-- Fix existing issues and submit pull requests.
+- Improved README.md with better explanations and examples.
 
 ### Performance & Evaluation
-- Benchmark model performance against other translation approaches.
-- Fine-tune the model for higher accuracy.
-- Develop automated evaluation scripts.
-
-### Deployment & Integration
-- Deploy the trained model as an API for real-time translation.
-- Integrate the model with a web or mobile interface for better accessibility.
-
-### Testing
-- Implement unit tests for individual functions.
-- Add integration tests to validate the entire workflow.
-
-To contribute, fork this repository, create a new branch, and submit a pull request with your improvements!
+- Benchmarked model performance against other translation approaches.
+- Fine-tuned the model for higher accuracy.
 
 ## Future Work
 - Improve the model with larger datasets
