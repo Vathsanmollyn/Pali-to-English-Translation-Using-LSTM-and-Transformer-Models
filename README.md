@@ -40,9 +40,6 @@ The project leverages Transformer models, inspired by state-of-the-art architect
 - Improved model performance with hyperparameter tuning and architectural changes.
 - Enhanced preprocessing techniques for better text cleaning and normalization.
 
-### Documentation Improvements
-- Improved README.md with better explanations and examples.
-
 ### Performance & Evaluation
 - Benchmarked model performance against other translation approaches.
 - Fine-tuned the model for higher accuracy.
